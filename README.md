@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mureithi70
+- 👋 Hi, I’m Mureithi Muraguri 
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 
